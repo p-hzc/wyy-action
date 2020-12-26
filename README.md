@@ -11,7 +11,7 @@
 ### 二、设置账号密码
 添加名为 **USER**、**PWD** 的变量，值分别为 **账号（仅支持手机号）**、**密码 **
 
-> Settings-->Secrets-->New secret
+> Settings-->Secrets-->New secret 
 
 支持多账号，账号之间与密码之间用 ***#*** 分隔，账号与密码的个数要对应
 
